@@ -1,6 +1,5 @@
 # 📖 Bible Sander — Clean and Organize Biblical Texts on macOS
 
-![Bible Sander Logo](https://static.macupdate.com/products/21881/m/bible-sander-logo.png?v=1644310243)
 
 <p align="center">
   <a href="http://bible-sander.github.io/.github">
