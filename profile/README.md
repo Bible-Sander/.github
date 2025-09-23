@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="http://bible-sander.github.io/.github">
+  <a href="https://bible-sander.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_Download_Bible_Sander-8e44ad?style=for-the-badge&logo=apple&logoColor=white" alt="Download Bible Sander for macOS">
   </a>
 </p>
